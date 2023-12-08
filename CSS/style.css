@@ -1,0 +1,32 @@
+html{
+  scroll-behavior: smooth;
+}
+
+
+
+.navbar-nav>.nav-link {
+  font-size: large;
+  margin: 0 10px 0;
+}
+
+.intro-container {
+  text-align: center;
+  height:90vh;
+  align-items: center;
+}
+
+.about{
+
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding:70px 0;
+}
+.contained{
+  width: 100%;
+  height: max-content;
+}
+.skills{
+  font-size: 80px;
+}
+
